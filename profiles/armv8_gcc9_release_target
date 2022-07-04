@@ -1,7 +1,7 @@
 toolchain=/usr/aarch64-linux-gnu
 target_host=aarch64-linux-gnu
-cc_compiler=gcc
-cxx_compiler=g++
+cc_compiler=gcc-9
+cxx_compiler=g++-9
 
 [settings]
 os=Linux
