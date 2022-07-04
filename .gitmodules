@@ -1,0 +1,6 @@
+[submodule "conan-scripts/conan-docker-tools"]
+	path = conan-scripts/conan-docker-tools
+	url = https://github.com/conan-io/conan-docker-tools.git
+[submodule "conan-scripts/conan-center-index"]
+	path = conan-scripts/conan-center-index
+	url = https://github.com/conan-io/conan-center-index.git
