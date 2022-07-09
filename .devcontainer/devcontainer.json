@@ -14,7 +14,8 @@
 			"extensions": [
 				"ms-vscode.cpptools",
 				"ms-vscode.cmake-tools",
-				"mutantdino.resourcemonitor"
+				"mutantdino.resourcemonitor",
+				"teabyii.ayu"
 			]
 		}
 	},
