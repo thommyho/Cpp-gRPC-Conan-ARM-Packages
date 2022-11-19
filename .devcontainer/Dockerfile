@@ -1,4 +1,4 @@
-ARG VARIANT=latest
+ARG VARIANT=latest-22
 FROM thommyho1988/base-cpp-cross-dev-gcc9-armv8:${VARIANT}
 
 USER root
